@@ -9,4 +9,4 @@ Third Party Licenses:
 a.) tel_icon.PNG File (https://www.iconfinder.com/icons/1220365/chat_communication_message_phone_social_whatsapp_icon#size=128) -Icon made by https://www.iconfinder.com/rebininfotech and is licensed under https://creativecommons.org/licenses/by/3.0/ and https://creativecommons.org/licenses/by/3.0/legalcode
 
  b.) temple33173.jpg (http://www.flaticon.com/free-icon/japanese-temple_15573) Icon made by http://www.freepik.com/ from www.flaticon.com per http://file000.flaticon.com/downloads/license/license.pdf
-License: Creative Commons (Attribution 3.0 Unported) 
+
